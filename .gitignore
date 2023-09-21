@@ -19,3 +19,13 @@
 
 # Go workspace file
 go.work
+
+# Intellij
+.idea/
+ftp2sms.iml
+
+# Random MacOS shit
+.DS_Store
+
+# Misc
+data/
